@@ -84,11 +84,3 @@ mips-cpu-simulator/
 └── README.md
 ```
 
-## Requirements
-
-- Python 3.6+
-- No external dependencies
-
-## Author
-
-**Karsten Lansing** — UC Santa Barbara, B.S. Computer Science
